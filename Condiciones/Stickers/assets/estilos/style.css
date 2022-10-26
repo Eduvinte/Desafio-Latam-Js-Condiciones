@@ -1,0 +1,9 @@
+.div {
+    display: flex;
+}
+#flex-container {
+    text-align: center;
+}
+#btn {
+    margin-top: 2%;
+}
